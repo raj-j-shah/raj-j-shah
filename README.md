@@ -22,6 +22,7 @@
 
 
 ### :man_technologist: About Me :
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
 - :man_student: I’m currently a B.Tech CSE student at IIIT Vadodara.
@@ -48,4 +49,8 @@
 
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-j-shah&show_icons=true&locale=en&layout=compact" alt="raj-j-shah" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-j-shah&show_icons=true&locale=en" alt="raj-j-shah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj-j-shah&" alt="raj-j-shah" /></p>
